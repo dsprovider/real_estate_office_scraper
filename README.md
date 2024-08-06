@@ -27,13 +27,13 @@ pip install selenium==4.23.1
 
 🚀 Getting Started
 
-Clone the Repository:
+- Clone the repository:
 
 git clone https://github.com/dsprovider/real_estate_office_scraper.git
 
 cd real_estate_office_scraper
 
-Run the Script:
+- Run the script:
 
 python real_estate_office_extractor.py
 
@@ -42,18 +42,18 @@ This will scrape office data from the Redpiso website and save it to office_data
 
 🧩 How It Works
 
-Setup: configures a headless Chrome browser with randomized user agents to mimic human behavior. 🕵️‍♂️
+- Setup: configures a headless Chrome browser with randomized user agents to mimic human behavior. 🕵️‍♂️
 
-Scraping: navigates through the website, handles cookies, and extracts office details from each page.
+- Scraping: navigates through the website, handles cookies, and extracts office details from each page.
 
-Pagination: clicks through pages to ensure no office is left behind. 📄➡️📄
+- Pagination: clicks through pages to ensure no office is left behind. 📄➡️📄
 
-Data collection: gathers relevant information and saves it in a CSV file.
+- Data collection: gathers relevant information and saves it in a CSV file.
 
 
 🛠️ Troubleshooting
 
-Cookies issue: if the cookie prompt is not handled, ensure the correct element IDs are used or increase wait times.
+- Cookies issue: if the cookie prompt is not handled, ensure the correct element IDs are used or increase wait times.
 
-Pagination problems: if the script fails to find the 'next' button, check for changes in the site's pagination structure.
+- Pagination problems: if the script fails to find the 'next' button, check for changes in the site's pagination structure.
 
