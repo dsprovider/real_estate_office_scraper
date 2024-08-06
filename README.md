@@ -1,6 +1,6 @@
 📍 Redpiso Office Scraper: Find Your Next Real Estate Office in Spain! 🇪🇸
 
-Welcome to the Redpiso Office Scraper project! 🏢✨ This Python script is designed to extract details of available real estate offices from the RedPiso website across Spain. Get office addresses, phone numbers, email addresses, and more! 🌟
+Welcome to the Redpiso Office Scraper project! 🏢✨ This Python script is designed to extract details of available real estate offices from the Redpiso website across Spain. Get office addresses, phone numbers, email addresses, and more! 🌟
 
 
 🛠️ Features
