@@ -8,7 +8,7 @@ Welcome to the Redpiso Office Scraper project! 🏢✨ This Python script is des
 - Extract office details: scrapes office data including addresses, phone numbers, and emails.
 - Handle cookies: bypass cookie prompts.
 - Page navigation: handles pagination to ensure all offices are scraped.
-- Data Export: saves collected data in a handy CSV file for analysis.
+- Data Export: saves collected data in a CSV file for analysis.
 
 
 📦 Requirements
