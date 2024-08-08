@@ -57,3 +57,9 @@ This will scrape office data from the Redpiso website and save it to office_data
 
 - Pagination problems: if the script fails to find the 'next' button, check for changes in the site's pagination structure.
 
+
+
+📜 License
+
+This project is licensed under the MIT License.
+
