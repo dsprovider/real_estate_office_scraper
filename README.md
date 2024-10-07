@@ -1,9 +1,9 @@
-📍 Redpiso Office Scraper: Find Your Next Real Estate Office in Spain! 🇪🇸
+# 📍 Redpiso Office Scraper: Find Your Next Real Estate Office in Spain! 🇪🇸
 
 Welcome to the Redpiso Office Scraper project! 🏢✨ This Python script is designed to extract details of available real estate offices from the Redpiso website across Spain. Get office addresses, phone numbers, email addresses, and more! 🌟
 
 
-🛠️ Features
+# 🛠️ Features
 
 - Extract office details: scrapes office data including addresses, phone numbers, and emails.
 - Handle cookies: bypass cookie prompts.
@@ -11,7 +11,7 @@ Welcome to the Redpiso Office Scraper project! 🏢✨ This Python script is des
 - Data Export: saves collected data in a CSV file for analysis.
 
 
-📦 Requirements
+# 📦 Requirements
 
 Before running the script, make sure you have the following Python libraries installed:
 1. fake-useragent for generating random user agents
@@ -25,7 +25,7 @@ pip install pandas==2.2.2
 pip install selenium==4.23.1
 
 
-🚀 Getting Started
+# 🚀 Getting Started
 
 - Clone the repository:
 
@@ -40,7 +40,7 @@ python real_estate_office_extractor.py
 This will scrape office data from the Redpiso website and save it to office_data.csv in your current directory.
 
 
-🧩 How It Works
+# 🧩 How It Works
 
 - Setup: configures a headless Chrome browser with randomized user agents to mimic human behavior. 🕵️‍♂️
 
@@ -51,7 +51,7 @@ This will scrape office data from the Redpiso website and save it to office_data
 - Data collection: gathers relevant information and saves it in a CSV file.
 
 
-🛠️ Troubleshooting
+# 🛠️ Troubleshooting
 
 - Cookies issue: if the cookie prompt is not handled, ensure the correct element IDs are used or increase wait times.
 
@@ -59,7 +59,7 @@ This will scrape office data from the Redpiso website and save it to office_data
 
 
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 
